@@ -1,2 +1,2 @@
 # Magang_PROG_2024
-Repo Praktikan Magang Prog 2K24
+Repo Praktikan Magang Programming 2K24
